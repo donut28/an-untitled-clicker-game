@@ -121,7 +121,7 @@ btn.place(x=200, y=80)
 btn=Button(window, text="cookie-dough scoops (100 scoops)", fg='goldenrod1', height=1, width=29, command=upgrade2Function)
 btn.place(x=200, y=110)
 
-btn=Button(window, text="rocky road scoops (140 scoops)", fg='brown', height=1, width=29, command=upgrade3Function)
+btn=Button(window, text="rocky road scoops (150 scoops)", fg='brown', height=1, width=29, command=upgrade3Function)
 btn.place(x=200, y=140)
 
 lbll=Label(window, text="scoop upgrades", fg='cyan4', font=("Comic Sans MS", 12))
