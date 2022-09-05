@@ -1,7 +1,10 @@
 # an-untitled-clicker-game
 One of my first Python Tkinter projects, featuring none other than ice-cream!
 
-Information:
+## Downloading Information
+The file name for any version of the game in the releases tab is `v0.0.release/patched.py`
+
+## Other info
 
 UCG = untitled clicker game
 
