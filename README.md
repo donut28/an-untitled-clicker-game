@@ -11,3 +11,6 @@ UCG = untitled clicker game
 UCG is not crossplatform. It only works on the Windows operating system.
 
 Feel free to download via the releases feature and play the game. The Github will have updated versions of the game for you to check out.
+
+## Contributing
+Feel free to contribute.
