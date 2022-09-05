@@ -11,7 +11,7 @@ print("You have been warned.")
 
 global thingcount
 global multiplier
-thingcount = 47
+thingcount = 0
 upgrade1 = 49
 upgrade2 = 99
 upgrade3 = 149
