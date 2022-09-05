@@ -8,6 +8,6 @@ The file name for any version of the game in the releases tab is `v0.0.release/p
 
 UCG = untitled clicker game
 
-UCG is not crossplatform. It only works on PC.
+UCG is not crossplatform. It only works on the Windows operating system.
 
 Feel free to download via the releases feature and play the game. The Github will have updated versions of the game for you to check out.
