@@ -255,3 +255,4 @@ lbl3.place(x=20, y=170)
 lbl4=Label(window, text="use releases version to activate", fg='cyan4', font=("Comic Sans MS", 7))
 lbl4.place(x=20, y=190)
 
+window.mainloop()
