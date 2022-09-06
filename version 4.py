@@ -70,8 +70,9 @@ loop = 0
 
 
 # For security reasons, the anti-cheat system has been redacted.
-
-
+# This is to prevent hackers from looking at the system to circumvent it.
+# You can download the version with anti-cheat via the Releases tab.
+# Apologies.
 
 def upgrade1Function():
    global thingcount
