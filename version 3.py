@@ -116,7 +116,6 @@ window = Tk()
 
 window.title("untitled clicker game - version 1.0")
 window.geometry("450x200+10+20")
-window.mainloop
 window.resizable(False, False)
 
 lbl=Label(window, text=f'You have: {thingcount} scoops', fg='black', font=("Comic Sans MS", 18))
@@ -151,3 +150,5 @@ btn.place(x=200, y=170)
 
 lbll=Label(window, text="scoop upgrades", fg='cyan4', font=("Comic Sans MS", 12))
 lbll.place(x=300, y=40)
+
+window.mainloop()
