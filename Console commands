@@ -1,0 +1,8 @@
+# Console commands
+These are commands you can run in the output/console while the game is running.
+
+## debugFunction()
+Shows most statuses of variables. Useful for locating bugs.
+
+## anticheatFunction()
+Checks for cheating. If found, it will stop the game.
