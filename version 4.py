@@ -252,7 +252,13 @@ lbll.place(x=300, y=40)
 lbl3=Label(window, text="anti-cheat deactivated", fg='cyan4', font=("Comic Sans MS", 10, 'bold'))
 lbl3.place(x=20, y=170)
 
-lbl4=Label(window, text="use releases version to activate", fg='cyan4', font=("Comic Sans MS", 7))
+lbl4=Label(window, text="use releases version to activate", fg='cyan4', font=("Comic Sans MS", 7, 'bold'))
 lbl4.place(x=20, y=190)
+
+lbl6=Label(window, text="any runs with this disclaimer should", fg='cyan4', font=("Comic Sans MS", 7))
+lbl6.place(x=20, y=210)
+
+lbl6=Label(window, text="be disqualified", fg='cyan4', font=("Comic Sans MS", 7))
+lbl6.place(x=20, y=230)
 
 window.mainloop()
