@@ -259,6 +259,6 @@ lbl6=Label(window, text="any runs with this disclaimer should", fg='cyan4', font
 lbl6.place(x=20, y=210)
 
 lbl6=Label(window, text="be disqualified", fg='cyan4', font=("Comic Sans MS", 7))
-lbl6.place(x=20, y=230)
+lbl6.place(x=20, y=225)
 
 window.mainloop()
