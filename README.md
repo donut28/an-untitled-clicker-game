@@ -1,6 +1,9 @@
 # an-untitled-clicker-game
 One of my first Python Tkinter projects, featuring none other than ice-cream!
 
+## Activity Information
+Yes, I'm still working on the game and I haven't forgotten. This v1.4 update is taking longer than expected due to some issues. 
+
 ## Downloading Information
 The file name for any version of the game in the releases tab is `v0.0.release/patched.py`
 
@@ -16,10 +19,13 @@ To run the game, you will need to launch Python 3.9 (IDLE) or later, then open t
 
 | Python Version   | Supported          |
 | --------- | ------------------ |
+| 3.11 RC>  | **Unknown**        |
 | 3.10      | :white_check_mark: |
 | 3.9       | :white_check_mark: |
 | 3.8 - 3.0 | **Unknown**        |
 | < 2.9     | :x:                |
+
+
 
 ## Other info
 
