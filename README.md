@@ -2,7 +2,7 @@
 One of my first Python Tkinter projects, featuring none other than ice-cream!
 
 ## Activity Information
-Yes, I'm still working on the game and I haven't forgotten. Hopefully I can get this update out soon.
+I've stopped working on the game. I'll leave this repository public for whoever wants to play. Thanks for the support, I've learned a lot from this project.
 
 ## Downloading Information
 The file name for any version of the game in the releases tab is `v0.0.release/patched.py` or `v0.0.release/patched.pyw`.
@@ -33,7 +33,7 @@ UCG = untitled clicker game
 
 UCG is not crossplatform. It only works on the Windows operating system.
 
-Feel free to download via the releases feature and play the game. The Github will have updated versions of the game for you to check out.
+Feel free to download via the releases feature and play the game. The Github will have versions of the game for you to check out.
 
 ## Contributing
 Feel free to contribute.
