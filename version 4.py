@@ -228,7 +228,8 @@ def employeeTick():
         checksum = checksum + 500
         updateFunction()
     window.after(2000, employeeTick)
-
+   
+employeeTick()
 
    
 def addthingFunction():
