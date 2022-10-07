@@ -2,7 +2,8 @@
 One of my first Python Tkinter projects, featuring none other than ice-cream!
 
 ## Activity Information
-I've stopped working on the game, and will push one final update. I'll leave this repository public for whoever wants to play. Thanks for the support, I've learned a lot from this project.
+IM BACK!
+The 1.4 update is coming soon...stay tuned
 
 ## Downloading Information
 The file name for any version of the game in the releases tab is `v0.0.release/patched.py` or `v0.0.release/patched.pyw`.
