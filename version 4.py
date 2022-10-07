@@ -218,6 +218,17 @@ def updateFunction():
    lbl.place(x=20, y=30)
    print("Updated text scoop count. This message should be shown when press the 'click to scoop' button or make a purchase. If it is not, please contact us.")
    
+def employeeTick():
+    global thingcount
+    global checksum
+    if employee1count > 0:
+        thingcount = thingcount + 500
+        checksum = checksum + 500
+        updateFunction()
+    window.after(2000, employeeTick)
+
+employeeTick()
+   
 def addthingFunction():
    global thingcount
    global checksum
