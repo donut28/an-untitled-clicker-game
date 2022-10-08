@@ -20,7 +20,7 @@ To run the game, you will need to launch Python 3.9 (IDLE) or later, then open t
 
 | Python Version   | Supported          |
 | --------- | ------------------ |
-| 3.11 RC>  | **Unknown**        |
+| 3.11 RC>  | :white_check_mark: |
 | 3.10      | :white_check_mark: |
 | 3.9       | :white_check_mark: |
 | 3.8 - 3.0 | **Unknown**        |
