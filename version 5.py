@@ -255,7 +255,7 @@ employeeTick()
 
 
 def anticheatFunction():
-    if cps >= 20:
+    if cps >= 8:
         print("Error: CPS too high")
         print("You have been warned.")
         print("Exiting...")
