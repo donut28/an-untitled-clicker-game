@@ -293,52 +293,40 @@ btn = Button(window, text="click to scoop", fg='black',
 btn.place(x=20, y=80)
 
 
-btn = Button(window, text="bubblegum scoops (50 scoops)",
-             fg='DarkOrchid1', height=1, width=29, command=upgrade1Function)
+btn = Button(window, text="bubblegum scoops (50 scoops)", fg='DarkOrchid1', height=1, width=29, command=upgrade1Function)
 btn.place(x=200, y=80)
 
-btn = Button(window, text="cookie-dough scoops (100 scoops)",
-             fg='goldenrod1', height=1, width=29, command=upgrade2Function)
+btn = Button(window, text="cookie-dough scoops (100 scoops)", fg='goldenrod1', height=1, width=29, command=upgrade2Function)
 btn.place(x=200, y=110)
 
-btn = Button(window, text="rocky road scoops (150 scoops)",
-             fg='orange', height=1, width=29, command=upgrade3Function)
+btn = Button(window, text="rocky road scoops (150 scoops)", fg='orange', height=1, width=29, command=upgrade3Function)
 btn.place(x=200, y=140)
 
-btn = Button(window, text="chocolate scoops (500 scoops)",
-             fg='brown', height=1, width=29, command=upgrade4Function)
+btn = Button(window, text="chocolate scoops (500 scoops)", fg='brown', height=1, width=29, command=upgrade4Function)
 btn.place(x=200, y=170)
 
-btn = Button(window, text="strawberry scoops (1000 scoops)",
-             fg='pink2', height=1, width=29, command=upgrade5Function)
+btn = Button(window, text="strawberry scoops (1000 scoops)", fg='pink2', height=1, width=29, command=upgrade5Function)
 btn.place(x=200, y=200)
 
-btn = Button(window, text="neapolitan scoops (5000 scoops)",
-             fg='blue', height=1, width=29, command=upgrade6Function)
+btn = Button(window, text="neapolitan scoops (5000 scoops)", fg='blue', height=1, width=29, command=upgrade6Function)
 btn.place(x=200, y=230)
 
-lbll = Label(window, text="scoop upgrades",
-             fg='cyan4', font=("Comic Sans MS", 12))
+lbll = Label(window, text="scoop upgrades", fg='cyan4', font=("Comic Sans MS", 12))
 lbll.place(x=300, y=40)
 
-lbl3 = Label(window, text="anti-cheat deactivated",
-             fg='cyan4', font=("Comic Sans MS", 10, 'bold'))
+lbl3 = Label(window, text="anti-cheat deactivated", fg='cyan4', font=("Comic Sans MS", 10, 'bold'))
 lbl3.place(x=20, y=170)
 
-lbl4 = Label(window, text="use releases version to activate",
-             fg='cyan4', font=("Comic Sans MS", 7, 'bold'))
+lbl4 = Label(window, text="use releases version to activate", fg='cyan4', font=("Comic Sans MS", 7, 'bold'))
 lbl4.place(x=20, y=190)
 
-lbl6 = Label(window, text="any runs with this disclaimer should",
-             fg='cyan4', font=("Comic Sans MS", 7))
+lbl6 = Label(window, text="any runs with this disclaimer should", fg='cyan4', font=("Comic Sans MS", 7))
 lbl6.place(x=20, y=210)
 
-lbl6 = Label(window, text="be disqualified",
-             fg='cyan4', font=("Comic Sans MS", 7))
+lbl6 = Label(window, text="be disqualified", fg='cyan4', font=("Comic Sans MS", 7))
 lbl6.place(x=20, y=225)
 
-btn = Button(window, text="rebirth (must have neapolitan)",
-             fg='blue', height=1, width=23, command=rebirthFunction)
+btn = Button(window, text="rebirth (must have neapolitan)", fg='blue', height=1, width=23, command=rebirthFunction)
 btn.place(x=20, y=255)
 
 
