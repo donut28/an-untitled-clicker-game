@@ -314,20 +314,8 @@ btn.place(x=200, y=230)
 lbll = Label(window, text="scoop upgrades", fg='cyan4', font=("Comic Sans MS", 12))
 lbll.place(x=300, y=40)
 
-lbl3 = Label(window, text="anti-cheat deactivated", fg='cyan4', font=("Comic Sans MS", 10, 'bold'))
-lbl3.place(x=20, y=170)
-
-lbl4 = Label(window, text="use releases version to activate", fg='cyan4', font=("Comic Sans MS", 7, 'bold'))
-lbl4.place(x=20, y=190)
-
-lbl6 = Label(window, text="any runs with this disclaimer should", fg='cyan4', font=("Comic Sans MS", 7))
-lbl6.place(x=20, y=210)
-
-lbl6 = Label(window, text="be disqualified", fg='cyan4', font=("Comic Sans MS", 7))
-lbl6.place(x=20, y=225)
-
 btn = Button(window, text="rebirth (must have neapolitan)", fg='blue', height=1, width=23, command=rebirthFunction)
-btn.place(x=20, y=255)
+btn.place(x=20, y=170)
 
 
 #lbl4=Label(window, text=f'multiplier x{multiplier}', fg='cyan4', font=("Comic Sans MS", 7))
