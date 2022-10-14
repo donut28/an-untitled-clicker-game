@@ -322,16 +322,13 @@ btn.place(x=20, y=170)
 #lbl4.place(x=20, y=190)
 
 
-lbl4 = Label(window, text="employees", fg='magenta',
-             font=("Comic Sans MS", 10))
+lbl4 = Label(window, text="employees", fg='magenta', font=("Comic Sans MS", 10))
 lbl4.place(x=450, y=40)
 
-lbl5 = Label(window, text="must rebirth to buy",
-             fg='blue', font=("Comic Sans MS", 7))
+lbl5 = Label(window, text="must rebirth to buy", fg='blue', font=("Comic Sans MS", 7))
 lbl5.place(x=450, y=60)
 
-btn = Button(window, text="junior employee (10000 scoops)",
-             fg='red2', height=1, width=29, command=employee1Function)
+btn = Button(window, text="junior employee (10000 scoops)", fg='red2', height=1, width=29, command=employee1Function)
 btn.place(x=450, y=80)
 
 # btn=Button(window, text="senior employee (100000 scoops)", fg='red2', height=1, width=29, command=employee2Function)
