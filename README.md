@@ -3,7 +3,7 @@ One of my first Python Tkinter projects, featuring none other than ice-cream!
 
 ## Activity Information
 IM BACK!
-The 1.4 update is now out! I will start working on v1.5 within a couple of days.
+The 1.4 update is now out! This will probably be the last update I make.
 
 ## Downloading Information
 The file name for any version of the game in the releases tab is `v0.0.release/patched.py` or `v0.0.release/patched.pyw`.
