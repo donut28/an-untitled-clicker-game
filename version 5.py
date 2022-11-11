@@ -5,6 +5,7 @@
 # important commands / must be run
 from tkinter import *
 from tkinter import ttk
+from tkinter import messagebox
 import time
 
 print("Please do not close this window!")
@@ -259,7 +260,8 @@ def anticheatFunction():
         print("Error: CPS too high")
         print("You have been warned.")
         print("Exiting...")
-        time.sleep(5)
+        messagebox.showerror('Autoclicker Detected', 'An autoclicker has been detected. The game will now exit.')
+        time.sleep(3)
         exit()
     window.after(10, anticheatFunction)
 
