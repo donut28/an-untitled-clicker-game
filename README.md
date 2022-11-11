@@ -2,8 +2,7 @@
 One of my first Python Tkinter projects, featuring none other than ice-cream!
 
 ## Activity Information
-IM BACK!
-The 1.4 update is now out! This will probably be the last update I make.
+The 1.4.1 update is now out! I'll still update the game in case theres any bugs.
 
 ## Downloading Information
 The file name for any version of the game in the releases tab is `v0.0.release/patched.py` or `v0.0.release/patched.pyw`.
@@ -14,13 +13,13 @@ To run the game, click on the downloaded game file. It should run provided you h
 
 **For Versions <1.2 or Version 2 or earlier**
 
-To run the game, you will need to launch Python 3.9 (IDLE) or later, then open the game file.
+To run the game, you will need to launch Python 3.9 (IDLE) or later, then open the game file from within Python 3.9 (IDLE).
 
 ## Supported Versions for Untitled Clicker Game
 
 | Python Version   | Supported          |
 | --------- | ------------------ |
-| 3.11 RC  | :white_check_mark: |
+| 3.11      | :white_check_mark: |
 | 3.10      | :white_check_mark: |
 | 3.9       | :white_check_mark: |
 | 3.8 - 3.0 | **Unknown**        |
