@@ -39,3 +39,5 @@ Feel free to download via the releases feature and play the game. The Github wil
 
 ## Contributing
 Feel free to contribute.
+
+*Sidenote: since you made it this far, heres a little secret. Generally, there will be a development branch where I push updates/changes that are in development. You can switch to this to try out the latest features before they are released.*
