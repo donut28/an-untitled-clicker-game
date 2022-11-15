@@ -7,6 +7,8 @@ The 1.4.1 update is now out! I'll still update the game in case theres any bugs.
 ## Downloading Information
 The file name for any version of the game in the releases tab is `v0.0.release/patched.py` or `v0.0.release/patched.pyw`.
 
+I'm working on converting the next release to a `.exe` file so it can be used on more devices.
+
 **For Versions 1.3> or Version 3>**
 
 To run the game, click on the downloaded game file. It should run provided you have Python 3.9 or later installed.
@@ -37,3 +39,5 @@ Feel free to download via the releases feature and play the game. The Github wil
 
 ## Contributing
 Feel free to contribute.
+
+*Sidenote: since you made it this far, heres a little secret. Generally, there will be a development branch where I push updates/changes that are in development. You can switch to this to try out the latest features before they are released.*

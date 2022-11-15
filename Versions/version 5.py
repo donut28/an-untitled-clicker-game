@@ -221,7 +221,7 @@ def debugFunction():
     print(multiplier)
 
 
-# main code
+# main GUI
 
 window = Tk()
 
@@ -230,16 +230,14 @@ window.geometry("700x300+10+20")
 window.mainloop
 window.resizable(False, False)
 
-lbl = Label(window, text=f'You have: {thingcount} scoops', fg='black', font=(
-    "Comic Sans MS", 18))
+lbl = Label(window, text=f'You have: {thingcount} scoops', fg='black', font=("Comic Sans MS", 18))
 lbl.place(x=20, y=30)
 print("Updated text scoop count. This message should be shown when press the 'click to scoop' button or make a purchase. If it is not, please contact us.")
 
 
 def updateFunction():
     global thingcount
-    lbl.config(font=("Comic Sans MS", 18), fg='black',
-               text=f'You have: {thingcount} scoops')
+    lbl.config(font=("Comic Sans MS", 18), fg='black', text=f'You have: {thingcount} scoops')
     lbl.place(x=20, y=30)
     print("Updated text scoop count. This message should be shown when press the 'click to scoop' button or make a purchase. If it is not, please contact us.")
 
