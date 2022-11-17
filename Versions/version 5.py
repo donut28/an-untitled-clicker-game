@@ -171,15 +171,31 @@ def rebirthFunction():
     global thingcount
     global rebirth_unlock
     global checksum
+    
+    global upgrade1count
+    global upgrade2count
+    global upgrade3count
+    global upgrade4count
+    global upgrade5count
+    global upgrade6count
+    
     print("Attempted upgrade. Stage 1")
     if upgrade6count > 0:
         print("Attempted upgrade. Stage 2")
         global multiplier
         thingcount = thingcount = 1
-        multiplier = multiplier = 1
+        multiplier = multiplier + 1
         rebirth_unlock = 1
 
         updateFunction()
+        
+        upgrade1count = 0
+        upgrade2count = 0
+        upgrade3count = 0
+        upgrade4count = 0
+        upgrade5count = 0
+        upgrade6count = 0
+        
         print("Upgrade successful")
     else:
         print("Error: insufficient things to buy")
