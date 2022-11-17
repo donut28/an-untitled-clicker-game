@@ -184,7 +184,7 @@ def rebirthFunction():
         print("Attempted upgrade. Stage 2")
         global multiplier
         thingcount = thingcount = 1
-        multiplier = multiplier = 1
+        multiplier = multiplier + 1
         rebirth_unlock = 1
 
         updateFunction()
