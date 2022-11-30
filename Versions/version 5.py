@@ -2,6 +2,8 @@
 # this is a game about clicking a button.
 # thats it.
 
+# made by the wonderful contributers on the internet
+
 # important commands / must be run
 from tkinter import *
 from tkinter import ttk
